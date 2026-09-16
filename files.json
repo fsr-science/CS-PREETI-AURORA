@@ -1,0 +1,66 @@
+{
+  "type": "folder",
+  "name": "CS-PREETI-AURORA",
+  "children": [
+    {
+      "type": "file",
+      "name": "01_Computer_System_Organization.pdf",
+      "path": "01_Computer_System_Organization.pdf"
+    },
+    {
+      "type": "file",
+      "name": "02_Data_Representation_and_Boolean_Logic.pdf",
+      "path": "02_Data_Representation_and_Boolean_Logic.pdf"
+    },
+    {
+      "type": "file",
+      "name": "03_Emerging_Trends.pdf",
+      "path": "03_Emerging_Trends.pdf"
+    },
+    {
+      "type": "file",
+      "name": "04_Computational_Thinking_and_Python.pdf",
+      "path": "04_Computational_Thinking_and_Python.pdf"
+    },
+    {
+      "type": "file",
+      "name": "05_Python_Programming_Fundamentals.pdf",
+      "path": "05_Python_Programming_Fundamentals.pdf"
+    },
+    {
+      "type": "file",
+      "name": "06_Conditional_and_Looping_Constructs.pdf",
+      "path": "06_Conditional_and_Looping_Constructs.pdf"
+    },
+    {
+      "type": "file",
+      "name": "07_Strings_in_Python.pdf",
+      "path": "07_Strings_in_Python.pdf"
+    },
+    {
+      "type": "file",
+      "name": "08_Lists_in_Python.pdf",
+      "path": "08_Lists_in_Python.pdf"
+    },
+    {
+      "type": "file",
+      "name": "09_Tuples_and_Dictionary.pdf",
+      "path": "09_Tuples_and_Dictionary.pdf"
+    },
+    {
+      "type": "file",
+      "name": "10_Introduction_to_Python_Modules.pdf",
+      "path": "10_Introduction_to_Python_Modules.pdf"
+    },
+    {
+      "type": "file",
+      "name": "11_Society_Law_and_Ethics.pdf",
+      "path": "11_Society_Law_and_Ethics.pdf"
+    },
+    {
+      "type": "file",
+      "name": "12_Cyber_Safety.pdf",
+      "path": "12_Cyber_Safety.pdf"
+    }
+  ]
+}
