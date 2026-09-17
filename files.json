@@ -4,63 +4,63 @@
   "children": [
     {
       "type": "file",
-      "name": "01_Computer_System_Organization.pdf",
-      "path": "01_Computer_System_Organization.pdf"
+      "name": "CS01-COMPUTER_SYSTEM_ORGANIZATION.pdf",
+      "path": "CS01-COMPUTER_SYSTEM_ORGANIZATION.pdf"
     },
     {
       "type": "file",
-      "name": "02_Data_Representation_and_Boolean_Logic.pdf",
-      "path": "02_Data_Representation_and_Boolean_Logic.pdf"
+      "name": "CS02-DATA_REPRESENTATION_AND_BOOLEAN_LOGIC.pdf",
+      "path": "CS02-DATA_REPRESENTATION_AND_BOOLEAN_LOGIC.pdf"
     },
     {
       "type": "file",
-      "name": "03_Emerging_Trends.pdf",
-      "path": "03_Emerging_Trends.pdf"
+      "name": "CS03-EMERGING_TRENDS.pdf",
+      "path": "CS03-EMERGING_TRENDS.pdf"
     },
     {
       "type": "file",
-      "name": "04_Computational_Thinking_and_Python.pdf",
-      "path": "04_Computational_Thinking_and_Python.pdf"
+      "name": "CS04-COMPUTATIONAL_THINKING_AND_PYTHON.pdf",
+      "path": "CS04-COMPUTATIONAL_THINKING_AND_PYTHON.pdf"
     },
     {
       "type": "file",
-      "name": "05_Python_Programming_Fundamentals.pdf",
-      "path": "05_Python_Programming_Fundamentals.pdf"
+      "name": "CS05-PYTHON_PROGRAMMING_FUNDAMENTALS.pdf",
+      "path": "CS05-PYTHON_PROGRAMMING_FUNDAMENTALS.pdf"
     },
     {
       "type": "file",
-      "name": "06_Conditional_and_Looping_Constructs.pdf",
-      "path": "06_Conditional_and_Looping_Constructs.pdf"
+      "name": "CS06-CONDITIONAL_AND_LOOPING_CONSTRUCTS.pdf",
+      "path": "CS06-CONDITIONAL_AND_LOOPING_CONSTRUCTS.pdf"
     },
     {
       "type": "file",
-      "name": "07_Strings_in_Python.pdf",
-      "path": "07_Strings_in_Python.pdf"
+      "name": "CS07-STRINGS_IN_PYTHON.pdf",
+      "path": "CS07-STRINGS_IN_PYTHON.pdf"
     },
     {
       "type": "file",
-      "name": "08_Lists_in_Python.pdf",
-      "path": "08_Lists_in_Python.pdf"
+      "name": "CS08-LISTS_IN_PYTHON.pdf",
+      "path": "CS08-LISTS_IN_PYTHON.pdf"
     },
     {
       "type": "file",
-      "name": "09_Tuples_and_Dictionary.pdf",
-      "path": "09_Tuples_and_Dictionary.pdf"
+      "name": "CS09-TUPLES_AND_DICTIONARY.pdf",
+      "path": "CS09-TUPLES_AND_DICTIONARY.pdf"
     },
     {
       "type": "file",
-      "name": "10_Introduction_to_Python_Modules.pdf",
-      "path": "10_Introduction_to_Python_Modules.pdf"
+      "name": "CS10-INTRODUCTION_TO_PYTHON_MODULES.pdf",
+      "path": "CS10-INTRODUCTION_TO_PYTHON_MODULES.pdf"
     },
     {
       "type": "file",
-      "name": "11_Society_Law_and_Ethics.pdf",
-      "path": "11_Society_Law_and_Ethics.pdf"
+      "name": "CS11-SOCIETY_LAW_AND_ETHICS.pdf",
+      "path": "CS11-SOCIETY_LAW_AND_ETHICS.pdf"
     },
     {
       "type": "file",
-      "name": "12_Cyber_Safety.pdf",
-      "path": "12_Cyber_Safety.pdf"
+      "name": "CS12-CYBER_SAFETY.pdf",
+      "path": "CS12-CYBER_SAFETY.pdf"
     }
   ]
 }
